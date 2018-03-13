@@ -1,2 +1,3 @@
 # stratagies
 Different strategies 
+
